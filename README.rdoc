@@ -1,28 +1,15 @@
-== README
+A Social Reading List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This will eventually be a social reading list app: users will be able to sign up, creating a reading list for themselves
+see other people's reading list, upvote books, and all other kinds of good stuff. The initial app is based on CodeSchool's
+Soup to Bits video for Rails for Zombies II (with my own flourishes added since I am not a COMPLETE noob to Ruby/Rails). 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I of course intend to take it much farther than the demo video. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+   Ruby: 2.1
+   Rails: 4.1.1 
+   DB: Will be Postgres once I get my Postgres DB working on my new Linux environment 
+   Deploy: Plan to use Heroku 
+
+
