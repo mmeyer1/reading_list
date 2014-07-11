@@ -2,14 +2,14 @@ A Social Reading List
 
 This will eventually be a social reading list app: users will be able to sign up, creating a reading list for themselves
 see other people's reading list, upvote books, and all other kinds of good stuff. The initial app is based on CodeSchool's
-Soup to Bits video for Rails for Zombies II (with my own flourishes added since I am not a COMPLETE noob to Ruby/Rails). 
+Soup to Bits video for Rails for Zombies II (with my own flourishes added since I am not a COMPLETE noob to Ruby/Rails).
 
-I of course intend to take it much farther than the demo video. 
+I of course intend to take it much farther than the demo video.
 
 
    Ruby: 2.1
-   Rails: 4.1.1 
-   DB: Will be Postgres once I get my Postgres DB working on my new Linux environment 
-   Deploy: Plan to use Heroku 
+   Rails: 4.1.1
+   DB: Will be Postgres once I get my Postgres DB working on my new Linux environment
+   Deploy: Plan to use Heroku
 
-
+Now with Genres!
