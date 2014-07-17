@@ -12,4 +12,4 @@ I of course intend to take it much farther than the demo video.
    DB: Will be Postgres once I get my Postgres DB working on my new Linux environment
    Deploy: Plan to use Heroku
 
-Now with Genres!
+Now with Genres
